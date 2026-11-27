@@ -6,7 +6,7 @@ This is a test repository with example Python scripts.
 
 ### hello.py
 
-A simple Python script that prints the current date and time.
+A simple Python script that prints the current date.
 
 **Usage:**
 ```bash
@@ -15,5 +15,5 @@ python hello.py
 
 **Output:**
 ```
-Today's date: 2026-11-27 HH:MM:SS
+Today's date is: 2026-11-27
 ```
